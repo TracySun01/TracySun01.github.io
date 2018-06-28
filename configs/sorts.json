@@ -1,0 +1,57 @@
+{
+    "": [
+        "readme.md", 
+        "about.md", 
+        "tracysun01.github.io", 
+        "_posts", 
+        "_includes", 
+        "css", 
+        "images", 
+        "others", 
+        "_layouts", 
+        "_sass"
+    ], 
+    "__positions": {
+        "_sass": 10, 
+        "_includes/references.md": 5002, 
+        "css": 6, 
+        "_layouts": 9, 
+        "_includes/pictures.md": 5001, 
+        "_posts/2018-05-10-firstloginin.markdown": 4003, 
+        "about.md": 2, 
+        "tracysun01.github.io": 3, 
+        "_posts/#201x-xx-xx-\u6837\u4f8b\u672c.markdown": 4002, 
+        "others": 8, 
+        "images": 7, 
+        "_posts/2018-05-11-howtobuildjenkinsforios.markdown": 4001, 
+        "_posts": 4, 
+        "readme.md": 1, 
+        "_includes": 5
+    }, 
+    "_posts": [
+        "2018-05-11-howtobuildjenkinsforios.markdown", 
+        "#201x-xx-xx-\u6837\u4f8b\u672c.markdown", 
+        "2018-05-10-firstloginin.markdown"
+    ], 
+    "_includes": [
+        "pictures.md", 
+        "references.md"
+    ], 
+    "__raw_positions": {
+        "_sass": 10, 
+        "_includes/references.md": 2, 
+        "_includes/pictures.md": 1, 
+        "readme.md": 1, 
+        "_posts/2018-05-11-howtobuildjenkinsforios.markdown": 1, 
+        "_posts": 4, 
+        "images": 7, 
+        "tracysun01.github.io": 3, 
+        "_posts/#201x-xx-xx-\u6837\u4f8b\u672c.markdown": 2, 
+        "others": 8, 
+        "about.md": 2, 
+        "_layouts": 9, 
+        "_posts/2018-05-10-firstloginin.markdown": 3, 
+        "css": 6, 
+        "_includes": 5
+    }
+}
